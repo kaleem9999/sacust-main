@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "sacust"
+  "defaultProject": "sacust",
+  "cli": {
+    "analytics": "d6d8c5f3-cc40-4018-a55e-ce9de196f838"
+  }
 }
